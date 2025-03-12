@@ -120,7 +120,7 @@ L'interface utilisateur a été conçue pour être intuitive et cohérente, avec
 
 ```bash
 # Cloner le dépôt
-git clone https:
+git clone https://github.com/MeaPaul/Examen_2021020033_2021020087
 
 # Accéder au répertoire du projet
 cd Examen_[matricule1]_[matricule2]
