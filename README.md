@@ -1,4 +1,4 @@
-# Projet de Gestion Académique Universitaire
+# EduConnect
 
 ## Aperçu
 
