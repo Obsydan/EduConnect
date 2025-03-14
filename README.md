@@ -123,7 +123,7 @@ L'interface utilisateur a été conçue pour être intuitive et cohérente, avec
 git clone https://github.com/MeaPaul/EduConnect.git
 
 # Accéder au répertoire du projet
-cd Examen_[matricule1]_[matricule2]
+cd EduConnect
 
 # Installer les dépendances
 npm install
