@@ -1,5 +1,5 @@
 {
-  "name": "examen_2021020033_2021020087",
+  "name": "educonnect",
   "version": "1.0.0",
   "main": "index.ts",
   "scripts": {
@@ -9,6 +9,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "": "file:",
     "@expo/metro-runtime": "~4.0.1",
     "@gorhom/bottom-sheet": "^5.0.6",
     "@react-native-community/datetimepicker": "^8.3.0",
