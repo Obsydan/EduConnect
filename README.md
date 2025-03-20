@@ -134,7 +134,7 @@ yarn install
 # 1. Créer un projet sur Firebase
 # 2. Activer l'authentification (email, Google, GitHub)
 # 3. Créer une base de données Firestore
-# 4. Copier les informations de configuration dans app.config.js
+# 4. Copier les informations de configuration dans firebase.ts
 
 # Démarrer l'application
 npx expo start
