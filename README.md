@@ -6,7 +6,7 @@ Cette application mobile de gestion académique universitaire a été développ�
 
 ## Équipe de développement
 
-- Développeur 1 : [Paul Ebondo] alias [PK77]
+- Développeur 1 : [Paul Ebondo] alias [Obsydan]
 - Développeur 2 : [Paul Kiluba] alias [ProfOne]
 
 ## Architecture technique
