@@ -120,7 +120,7 @@ L'interface utilisateur a été conçue pour être intuitive et cohérente, avec
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/MeaPaul/EduConnect.git
+git clone https://github.com/obsydan/EduConnect.git
 
 # Accéder au répertoire du projet
 cd EduConnect
